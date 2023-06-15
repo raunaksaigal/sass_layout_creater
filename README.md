@@ -27,3 +27,6 @@ It also creates style.css, index.html, and also package.json and adds node-sass 
 - It must have node installed on the system
 - It must have neovim installed on the system (if neovim is not installed use the script `sass_initiation_note.ps1`)
 - It must have vs code installed
+- Execution of powershell scripts must be allowed 
+(open powershell as administrator
+run the following `set-executionpolicy remotesigned`)
