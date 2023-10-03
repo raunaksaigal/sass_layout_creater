@@ -1,5 +1,5 @@
 # Sass Layout Creater
- This is a powershell script to automate the creation of the basic folder structure for 7-1 architecture based SASS application
+ This is a powershell script to automate the creation of the basic folder structure for 7-1 architecture based SASS application - a CSS preprocessor
  It creates the following file structure:
  ```
  └───sass
